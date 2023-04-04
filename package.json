@@ -1,0 +1,22 @@
+{
+  "name": "repo-orm-ts",
+  "version": "1.0.0",
+  "description": "Basic typescript database management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "remo",
+    "orm",
+    "database"
+  ],
+  "author": "Ignacio Barocchi",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.3"
+  },
+  "devDependencies": {
+    "@types/jsonfile": "^6.1.1"
+  }
+}
